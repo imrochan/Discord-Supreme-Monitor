@@ -4,7 +4,4 @@ Monitors Supreme USA's website for restocks on sold out items. If an item is det
 
 
 ToDo:
-
-Bug Fixes
-
-Fix Quick Tasks
+- Add Quick Tasks for sneaker bots
